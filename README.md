@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Blockchain Developer. Energy Professional. Digital Artist
 ---------------------------------------------------------
 
-Chime is a Blockchain enthusiast (developer, hacker, tinkerer) with a passion for pushing the application of Blockchain technology in mainstream industries, particularly the energy industry. He is a full-time Well Engineer (Drilling and Completions Engineering) in the oil & gas industry and a part-time Blockchain Developer. He also delights in the creation of beautiful digital art pieces
+Chime is a Blockchain enthusiast (developer, hacker, tinkerer) with a passion for pushing the application of Blockchain technology in mainstream industries, particularly the energy industry. He is a Blockchain Developer and Well Engineer (Drilling and Completions). He also delights in the creation of beautiful digital art pieces
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [chimeinstein@gmail.com](mailto:chimeinstein@gmail.com)
