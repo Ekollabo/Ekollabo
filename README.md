@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chime Chukwudalu
 ========================================================================================================================================
 
-Blockchain Developer. Energy Professional. Digital Artist
+Blockchain Developer. Smart Contract Security Researcher. Energy Professional. Digital Artist
 ---------------------------------------------------------
 
 Chime is a Blockchain enthusiast (developer, hacker, tinkerer) with a passion for pushing the application of Blockchain technology in mainstream industries, particularly the energy industry. He is a Blockchain Developer and Well Engineer (Drilling and Completions). He also delights in the creation of beautiful digital art pieces
 
-* 🌍  I'm based in Lagos, Nigeria
+* 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [chimeinstein@gmail.com](mailto:chimeinstein@gmail.com)
 * 🧠  I'm learning everything web3 and blockchain development
 * 🤝  I'm open to collaborating on Interesting blockchain projects
